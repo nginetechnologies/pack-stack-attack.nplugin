@@ -1,0 +1,543 @@
+{
+    "0189ac0c-04a8-3fee-6c2c-ecbc0583f725": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block L Inverse.mesh.nasset/Block L Inverse Orange.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "eb34c0a9-50ec-9f31-f398-4f790bb1735b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "03969df9-70c8-b68d-c9cd-2160416bcbd0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Side Background.mtli.nasset.tex.nasset"
+    },
+    "088fbf54-ac48-cdee-3c6b-3f326c4aad2e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Trim.mtli.nasset",
+        "thumbnail": "a14af0ff-b03a-16b2-6787-8b1deb5bc67d",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "08c38ba7-d4b4-d3bd-8aad-fbf11c4ef76a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Main Board.mesh.nasset/Main Board.mesh.nasset",
+        "thumbnail": "913edf31-7a1b-442e-aa04-e5671e0bdc53",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "3a40a033-39ee-ffea-c3f6-b1b318545d50",
+            "587e6f31-f344-e1b2-1299-e1dd48a71e52",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "d52809ec-cfb1-26ce-eebb-bacc6e1c4935",
+            "d8c0164f-4cbc-cb05-f4cb-43bb56a850f3",
+            "6d345c29-4116-5f0d-a95d-7c94c82c7207",
+            "34245ad1-95a8-f312-e63e-519e1dd170b5",
+            "088fbf54-ac48-cdee-3c6b-3f326c4aad2e",
+            "2e1f052e-1f92-6a94-a357-2f11c03a11a7"
+        ]
+    },
+    "0a40a860-0a48-0643-6334-27a1699bebb7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block L Inverse.mesh.nasset/Thumbnails/Block L Inverse.mesh.nasset.tex.nasset"
+    },
+    "0a735295-20d3-092a-68a0-8accf7f9fa68": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Cyan.mtli.nasset",
+        "thumbnail": "ba039323-652f-40b1-0c0a-b50a6491943a",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0d468a77-c765-7be5-02b3-21944d47d3e3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block L.mesh.nasset/Block L Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9301e5ec-3ecb-2ae8-d8ee-615ae018e959",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "106a3cba-ee5e-1c1c-f35f-1f85fcf0ad0e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Purple.mtli.nasset.tex.nasset"
+    },
+    "19fe7dfb-c9b8-2995-3362-d64527034eec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Back Plate.mtli.nasset.tex.nasset"
+    },
+    "2cabd057-2582-3ad3-6202-5bc02888aa30": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Piece Next.mesh.nasset/Thumbnails/Piece Next.mesh.nasset.tex.nasset"
+    },
+    "2ccf564d-e5c4-ea86-8524-78e3c2ac9312": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Green.mtli.nasset",
+        "thumbnail": "95b894af-04bf-b4d1-52f5-6eb637595e02",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "2e1f052e-1f92-6a94-a357-2f11c03a11a7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Main Board.mesh.nasset/Main Board Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "088fbf54-ac48-cdee-3c6b-3f326c4aad2e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "34245ad1-95a8-f312-e63e-519e1dd170b5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Main Board.mesh.nasset/Main Board Checker Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6d345c29-4116-5f0d-a95d-7c94c82c7207",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "353e4ff8-7b38-0041-d660-e6c6e8a5e88c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Cube.mesh.nasset/Block Cube Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "93843e19-afca-7c31-df63-1b2a2ddf77f9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3a40a033-39ee-ffea-c3f6-b1b318545d50": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Back Plate.mtli.nasset",
+        "thumbnail": "19fe7dfb-c9b8-2995-3362-d64527034eec",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "3d178621-e9bf-dffd-2c42-8e9e57c2d86c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Piece Queue.mesh.nasset/Piece Queue Side Background.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cf4fe9aa-922f-e95a-997c-691adbc909f7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "467856c4-3dcf-9246-f29f-fd4f75a251aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block L.mesh.nasset/Block L.mesh.nasset",
+        "thumbnail": "fb2c9c0c-9016-cb71-740c-930b8a8eaaa9",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "9301e5ec-3ecb-2ae8-d8ee-615ae018e959",
+            "0d468a77-c765-7be5-02b3-21944d47d3e3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "47ffc268-5f21-11a4-ff98-c59c46e7f2e0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Piece Queue.mesh.nasset/Piece Queue.mesh.nasset",
+        "thumbnail": "a2866d91-9226-72c7-727e-143b1f0578eb",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "cf4fe9aa-922f-e95a-997c-691adbc909f7",
+            "3d178621-e9bf-dffd-2c42-8e9e57c2d86c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "088fbf54-ac48-cdee-3c6b-3f326c4aad2e",
+            "ed367342-271d-007f-bc07-0acd9a600aaa"
+        ]
+    },
+    "4a3e26a9-a5a4-3408-2782-1866520f47ab": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Blue.mtli.nasset.tex.nasset"
+    },
+    "50a816c3-98c6-9463-d6b9-633dc6284c99": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block T.mesh.nasset/Thumbnails/Block T.mesh.nasset.tex.nasset"
+    },
+    "5715cec1-20e3-7850-73b3-537a432bc4d0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Orange.mtli.nasset.tex.nasset"
+    },
+    "587e6f31-f344-e1b2-1299-e1dd48a71e52": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Main Board.mesh.nasset/Main Board Back Plate.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3a40a033-39ee-ffea-c3f6-b1b318545d50",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5e181338-12bb-b523-899f-042f518e1245": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Purple.mtli.nasset",
+        "thumbnail": "106a3cba-ee5e-1c1c-f35f-1f85fcf0ad0e",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "62090834-9c17-b500-353f-28fa70b2ad33": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Straight.mesh.nasset/Thumbnails/Block Straight.mesh.nasset.tex.nasset"
+    },
+    "65e524bd-c857-4e7d-bd45-0012ce70b25a": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Stack Attack Assets"
+    },
+    "6d345c29-4116-5f0d-a95d-7c94c82c7207": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Checker Dark.mtli.nasset",
+        "thumbnail": "75398854-1a8a-d337-ad12-88f03226df9d",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "6e6313d8-c368-b8e7-74a6-18cfc69716a5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Cube.mesh.nasset/Thumbnails/Block Cube.mesh.nasset.tex.nasset"
+    },
+    "75398854-1a8a-d337-ad12-88f03226df9d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Checker Dark.mtli.nasset.tex.nasset"
+    },
+    "785c3f71-9c17-47dd-319e-43060661b103": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block T.mesh.nasset/Block T Purple.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5e181338-12bb-b523-899f-042f518e1245",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "81375fc5-b153-d4b7-46ea-ca89dc4f7b49": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Cube.mesh.nasset/Block Cube.mesh.nasset",
+        "thumbnail": "6e6313d8-c368-b8e7-74a6-18cfc69716a5",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "93843e19-afca-7c31-df63-1b2a2ddf77f9",
+            "353e4ff8-7b38-0041-d660-e6c6e8a5e88c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8492f898-45ed-ee5e-240d-410e1a053811": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block T.mesh.nasset/Block T.mesh.nasset",
+        "thumbnail": "50a816c3-98c6-9463-d6b9-633dc6284c99",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "5e181338-12bb-b523-899f-042f518e1245",
+            "785c3f71-9c17-47dd-319e-43060661b103",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8b173567-4e55-fff8-e96e-f670a16838b5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Red.mtli.nasset",
+        "thumbnail": "b5984972-3ae7-7e7a-94f4-c8653e9705f4",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "913edf31-7a1b-442e-aa04-e5671e0bdc53": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Main Board.mesh.nasset/Thumbnails/Main Board.mesh.nasset.tex.nasset"
+    },
+    "9301e5ec-3ecb-2ae8-d8ee-615ae018e959": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Blue.mtli.nasset",
+        "thumbnail": "4a3e26a9-a5a4-3408-2782-1866520f47ab",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "93843e19-afca-7c31-df63-1b2a2ddf77f9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Yellow.mtli.nasset",
+        "thumbnail": "aeace4fd-6651-0b7b-1337-d29c8c6681ef",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "95a6a553-64fe-5f47-6578-9f72dd8cf7b8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/SC_Stack_Attack.scene.nasset",
+        "dependencies": [
+            "08c38ba7-d4b4-d3bd-8aad-fbf11c4ef76a",
+            "fcf31605-bed9-b5cf-74f2-1c7f48725b40",
+            "47ffc268-5f21-11a4-ff98-c59c46e7f2e0",
+            "acce8887-953b-6100-d41e-0837edc9d311",
+            "e7367e41-2526-b94a-f69b-1d1e712af3ef",
+            "81375fc5-b153-d4b7-46ea-ca89dc4f7b49",
+            "467856c4-3dcf-9246-f29f-fd4f75a251aa",
+            "8492f898-45ed-ee5e-240d-410e1a053811",
+            "f45a3f52-701b-8d1e-fb69-fecca00fd386",
+            "9b37dbdb-3f90-bfd3-3819-cbda6e6f0eb2"
+        ]
+    },
+    "95b894af-04bf-b4d1-52f5-6eb637595e02": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Green.mtli.nasset.tex.nasset"
+    },
+    "9b37dbdb-3f90-bfd3-3819-cbda6e6f0eb2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Zig Inverse.mesh.nasset/Block Zig Inverse.mesh.nasset",
+        "thumbnail": "e4cb74be-0131-5f57-5592-030cf64fd8d1",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2ccf564d-e5c4-ea86-8524-78e3c2ac9312",
+            "9b5e19eb-ba5c-91b9-0043-ad5eeb1338fb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9b5e19eb-ba5c-91b9-0043-ad5eeb1338fb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Zig Inverse.mesh.nasset/Block Zig Inverse Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2ccf564d-e5c4-ea86-8524-78e3c2ac9312",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9ca0b1b1-dec2-bbeb-fffd-fc491be669ad": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Straight.mesh.nasset/Block Straight Cyan.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0a735295-20d3-092a-68a0-8accf7f9fa68",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a14af0ff-b03a-16b2-6787-8b1deb5bc67d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Trim.mtli.nasset.tex.nasset"
+    },
+    "a2866d91-9226-72c7-727e-143b1f0578eb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Piece Queue.mesh.nasset/Thumbnails/Piece Queue.mesh.nasset.tex.nasset"
+    },
+    "a4993596-ea02-bd55-bd9a-626a77cd3803": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Zig Zag.mesh.nasset/Block Zig Zag Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8b173567-4e55-fff8-e96e-f670a16838b5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "acce8887-953b-6100-d41e-0837edc9d311": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Straight.mesh.nasset/Block Straight.mesh.nasset",
+        "thumbnail": "62090834-9c17-b500-353f-28fa70b2ad33",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0a735295-20d3-092a-68a0-8accf7f9fa68",
+            "9ca0b1b1-dec2-bbeb-fffd-fc491be669ad",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "aeace4fd-6651-0b7b-1337-d29c8c6681ef": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Yellow.mtli.nasset.tex.nasset"
+    },
+    "b5984972-3ae7-7e7a-94f4-c8653e9705f4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
+    },
+    "ba039323-652f-40b1-0c0a-b50a6491943a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Cyan.mtli.nasset.tex.nasset"
+    },
+    "cf4fe9aa-922f-e95a-997c-691adbc909f7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Side Background.mtli.nasset",
+        "thumbnail": "03969df9-70c8-b68d-c9cd-2160416bcbd0",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d52809ec-cfb1-26ce-eebb-bacc6e1c4935": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Checker Light.mtli.nasset",
+        "thumbnail": "f3414d2b-b1bd-3655-dc9e-6147a30a4b4c",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d8c0164f-4cbc-cb05-f4cb-43bb56a850f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Main Board.mesh.nasset/Main Board Checker Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d52809ec-cfb1-26ce-eebb-bacc6e1c4935",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "db5999c2-13f3-b88a-4da7-6f5a2a1518c4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Piece Next.mesh.nasset/Piece Next Side Background.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cf4fe9aa-922f-e95a-997c-691adbc909f7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e16c6794-c0c7-6c12-3ef9-f7c99e44b0d6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Stack_Attack_Thumb.tex.nasset"
+    },
+    "e4cb74be-0131-5f57-5592-030cf64fd8d1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Zig Inverse.mesh.nasset/Thumbnails/Block Zig Inverse.mesh.nasset.tex.nasset"
+    },
+    "e7367e41-2526-b94a-f69b-1d1e712af3ef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Zig Zag.mesh.nasset/Block Zig Zag.mesh.nasset",
+        "thumbnail": "ebcad6bb-03b4-95df-e021-675f2c381f7c",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "8b173567-4e55-fff8-e96e-f670a16838b5",
+            "a4993596-ea02-bd55-bd9a-626a77cd3803",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "eb34c0a9-50ec-9f31-f398-4f790bb1735b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Orange.mtli.nasset",
+        "thumbnail": "5715cec1-20e3-7850-73b3-537a432bc4d0",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "ebcad6bb-03b4-95df-e021-675f2c381f7c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block Zig Zag.mesh.nasset/Thumbnails/Block Zig Zag.mesh.nasset.tex.nasset"
+    },
+    "ed367342-271d-007f-bc07-0acd9a600aaa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Piece Queue.mesh.nasset/Piece Queue Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "088fbf54-ac48-cdee-3c6b-3f326c4aad2e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f3414d2b-b1bd-3655-dc9e-6147a30a4b4c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Checker Light.mtli.nasset.tex.nasset"
+    },
+    "f45a3f52-701b-8d1e-fb69-fecca00fd386": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block L Inverse.mesh.nasset/Block L Inverse.mesh.nasset",
+        "thumbnail": "0a40a860-0a48-0643-6334-27a1699bebb7",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "eb34c0a9-50ec-9f31-f398-4f790bb1735b",
+            "0189ac0c-04a8-3fee-6c2c-ecbc0583f725",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f4d1a699-6d2e-3b14-66a0-da6a3f65f526": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Piece Next.mesh.nasset/Piece Next Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "088fbf54-ac48-cdee-3c6b-3f326c4aad2e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fb2c9c0c-9016-cb71-740c-930b8a8eaaa9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Block L.mesh.nasset/Thumbnails/Block L.mesh.nasset.tex.nasset"
+    },
+    "fcf31605-bed9-b5cf-74f2-1c7f48725b40": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Stack_Attack.scene.nasset/Piece Next.mesh.nasset/Piece Next.mesh.nasset",
+        "thumbnail": "2cabd057-2582-3ad3-6202-5bc02888aa30",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "cf4fe9aa-922f-e95a-997c-691adbc909f7",
+            "db5999c2-13f3-b88a-4da7-6f5a2a1518c4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "088fbf54-ac48-cdee-3c6b-3f326c4aad2e",
+            "f4d1a699-6d2e-3b14-66a0-da6a3f65f526"
+        ]
+    },
+    "guid": "5253e8a9-5251-5454-3560-a00468bcb05b"
+}
